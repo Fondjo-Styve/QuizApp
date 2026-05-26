@@ -1,0 +1,20 @@
+[
+  {
+    "question": "Solve for x: 3x + 12 = 30",
+    "answers": [
+      { "text": "x = 6", "correct": true },
+      { "text": "x = 10", "correct": false },
+      { "text": "x = 18", "correct": false },
+      { "text": "x = 4", "correct": false }
+    ]
+  },
+  {
+    "question": "What is the value of x in x^2 = 64?",
+    "answers": [
+      { "text": "6", "correct": false },
+      { "text": "8", "correct": true },
+      { "text": "12", "correct": false },
+      { "text": "32", "correct": false }
+    ]
+  }
+]

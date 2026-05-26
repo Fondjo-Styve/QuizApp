@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Quizz App</title> 
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="app">
+    <h1>Welcome to This Quizz App</h1>
+    <h2>Choose your question category</h2>
+    <div id="category-buttons">
+      <button class="category-btn">Sports</button>
+      <button class="category-btn">Mathematics</button>
+      <button class="category-btn">Programming</button>
+      <!-- <button class="category-btn">General-culture</button> -->
+    </div>
+    <div class="quiz" style="display: none;"> 
+      <div class="quizz-hide">
+        <h2 id="question">Question goes here</h2>
+        <div id="answer-buttons"> 
+            <button class="answer-btn">Answer 1</button>
+            <button class="answer-btn">Answer 2</button>
+            <button class="answer-btn">Answer 3</button>
+            <button class="answer-btn">Answer 4</button>
+        </div>
+      </div>
+      <button id="next-btn">Next</button>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>

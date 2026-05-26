@@ -1,0 +1,20 @@
+[
+  {
+    "question": "Which country has won the most AFCON titles in history?",
+    "answers": [
+      { "text": "Cameroon", "correct": false },
+      { "text": "Egypt", "correct": true },
+      { "text": "Senegal", "correct": false },
+      { "text": "Nigeria", "correct": false }
+    ]
+  },
+  {
+    "question": "Who is the all-time leading goal scorer for the Indomitable Lions?",
+    "answers": [
+      { "text": "Roger Milla", "correct": false },
+      { "text": "Samuel Eto'o", "correct": true },
+      { "text": "Vincent Aboubakar", "correct": false },
+      { "text": "Patrick M'Boma", "correct": false }
+    ]
+  }
+]

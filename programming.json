@@ -1,0 +1,20 @@
+[
+  {
+    "question": "What is a Promise used for in JavaScript?",
+    "answers": [
+      { "text": "Handling asynchronous operations", "correct": true },
+      { "text": "Storing constant variables", "correct": false },
+      { "text": "Creating mathematical loops", "correct": false },
+      { "text": "Styling HTML elements", "correct": false }
+    ]
+  },
+  {
+    "question": "Which keyword is used to define a constant variable?",
+    "answers": [
+      { "text": "let", "correct": false },
+      { "text": "var", "correct": false },
+      { "text": "const", "correct": true },
+      { "text": "static", "correct": false }
+    ]
+  }
+]
